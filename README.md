@@ -1,0 +1,2 @@
+# MacroSwitch
+MacroSwitch for xkeybindings.
