@@ -3,8 +3,8 @@ MacroSwitch for xkeybindings.
 
 A simplified GUI for xbindkeys!
 
-## Version 2.0 now out!
-# Whats new:
+# Version 2.0 now out!
+## Whats new:
 - Prettier GUI
 - Ability to add profiles!
 
