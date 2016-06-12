@@ -94,9 +94,11 @@ def main():
 a = 1
 while a == 1:
     if os.path.exists(mypath):
+        call('xbindkeys', shell=True)
         main()
         a = None
     else:
+        call('xbindkeys', shell=True)
         call('mkdir %s' % mypath, shell=True)
         main()
         a = None
